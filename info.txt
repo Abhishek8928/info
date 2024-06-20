@@ -1,0 +1,88 @@
+
+
+Name :- Abhishek Sharma
+email :- abhishekshaxma8356@gmail.com
+mobile :- 8928862682
+location :- Mumbai India
+linkedin :- https://www.linkedin.com/in/abhishek-sharma-7b0bbb22b/
+github :- https://github.com/Abhishek8928
+
+role :- Full stack devloper , frontend developer , backend developer
+
+education :- 
+
+Bsc (CS) - 9.29/10 CGPA
+Mgm collage,kalamboli
+2021 - 2024 Mumbai, Maharashtra
+
+MPC - Higher Secondary - 82%
+Narayana Jr College
+2019 Hyderabad
+
+Secondary - 56%
+Mumbai University
+2017 Mumbai, Maharashtra
+
+
+TECHNICAL SKILLS :
+
+• Frontend technologies
+  - html/css/javascript
+  - React js 
+
+• Frameworks, Libraries & Databases
+  - Bootstrap, Tailwind CSS
+  - ReactJS, NodeJS
+  - Mongodb , Mysql
+  
+• Version Control
+  - Git
+  - Github
+
+
+PROJECT SECTION :-
+
+### Lagaooo.com
+- Description: Lagaooo.com is a tournament booking platform developed for a client as a freelancing project. The platform allows users to book and manage tournaments seamlessly.
+- Technologies Used:
+  - Backend: Express.js, Node.js
+  - Payment Gateway: Razorpay
+  - Templating Engine: EJS
+  - Database: MongoDB
+  - Authentication: Local Strategy, Google, Discord
+  - Email Service: Nodemailer
+- Key Features:
+  - User authentication and authorization with local strategy, Google, and Discord.
+  - Integration with Razorpay for secure payment processing.
+  - Email notifications and confirmations using Nodemailer.
+  - Dynamic and responsive UI using EJS templates.
+  - Comprehensive tournament booking and management system.
+-Live Link 
+
+### Discussion Forum
+- **Description:** A discussion forum where users can create posts and respond to others' posts. Users can also mark responses as the best answer and resolve questions.
+- **Technologies Used:**
+  - **Backend:** Express.js, Node.js
+  - **Templating Engine:** EJS
+  - **Database:** MongoDB
+  - **Authentication:** Local Strategy
+- **Key Features:**
+  - User authentication and authorization using Local Strategy.
+  - Create, edit, and delete posts.
+  - Respond to posts and engage in discussions.
+  - Mark responses as the best answer and resolve questions.
+  - User-friendly interface for seamless interaction.
+  
+-Live Link :- 
+
+## Achievements
+- Successfully delivered Lagaooo.com project on time, meeting all client requirements.
+- Developed and deployed multiple full-stack applications.
+- Graduated with honors in Computer Science.
+- Earned certifications in React.js, Node.js, and MongoDB.
+- Contributed to open-source projects and actively participated in coding competitions.
+
+## Hobbies/Interests
+- Coding
+- Reading
+- Traveling
