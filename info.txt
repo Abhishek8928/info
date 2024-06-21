@@ -40,7 +40,11 @@ TECHNICAL SKILLS :
   - Github
 
 
-PROJECT SECTION :-
+
+
+
+
+Backend Project :- 
 
 ### Lagaooo.com
 - Description: Lagaooo.com is a tournament booking platform developed for a client as a freelancing project. The platform allows users to book and manage tournaments seamlessly.
@@ -72,8 +76,9 @@ PROJECT SECTION :-
   - Respond to posts and engage in discussions.
   - Mark responses as the best answer and resolve questions.
   - User-friendly interface for seamless interaction.
+  - Asdmin dashboard to manage the tournament
   
--Live Link :- 
+-Live Link :- https://discussion-forum-g7jq.onrender.com/
 
 ## Achievements
 - Successfully delivered Lagaooo.com project on time, meeting all client requirements.
@@ -86,3 +91,35 @@ PROJECT SECTION :-
 - Coding
 - Reading
 - Traveling
+
+
+
+Frontend Project:-
+
+1. `NetflixGPT` - a movie recommendation App with GPT-3.5 turbo integration🔥
+
+- GPT Search, using the latest GPT-3.5 Turbo API 🚀.
+- Authentication - Sign Up, Log In, Sign Out.
+- Form Handling, and Form validations
+- Advanced Tailwind.
+- useRef hook.
+- Used Memoization.
+- Build Multi-Language support.
+- Advanced data handling with Redux Toolkit.
+- Use of .env files to secure secret API keys
+
+2. `Swiggy App` - Our own Food Ordering app just like Swiggy🔥
+
+- Browse restaurants and view offers using the real Swiggy API
+- Browse restaurants and view offers
+- Search functionality for restaurants
+- Shimmer UI for loading effects
+- Lazy loading for better performance
+- Instamart store with product categories and detailed descriptions
+- View all sub-categories of each product
+- Multiple product variants
+- Cart management
+- Real-time online status
+
+certificate:
+React Js :-  namastedev.com/abhishekshaxma8356/certificates/namaste-react
